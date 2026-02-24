@@ -1,4 +1,5 @@
  🎥 IMDb 2024 Data Scraping & Visualization 🎬
+ 
  🌍 Project Overview
 This project focuses on extracting, analyzing, and visualizing IMDb movie data for the year **2024**. Using Selenium, movie details such as **Title, Genre, Duration, Rating, and Voting Counts** are collected. The dataset is cleaned using Pandas, stored in a SQL database, and explored through an interactive Streamlit dashboard with dynamic visualizations.
 
