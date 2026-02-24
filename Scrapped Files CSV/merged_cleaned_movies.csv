@@ -1,0 +1,1348 @@
+Unnamed: 0,Title,Genre,Duration,Rating,voting
+1,Eden,adventure,129,6.5,40000
+2,Dune: Part Two,adventure,166,8.4,717000
+3,Deadpool & Wolverine,adventure,128,7.5,556000
+4,The Wild Robot,adventure,102,8.2,215000
+5,Gladiator II,adventure,148,6.5,290000
+6,Twisters,adventure,122,6.5,192000
+7,Furiosa: A Mad Max Saga,adventure,148,7.5,316000
+8,Kraven the Hunter,adventure,127,5.5,79000
+9,Freaky Tales,adventure,107,6.2,17000
+10,Flow,adventure,85,7.9,123000
+11,Ghostbusters: Frozen Empire,adventure,115,6.1,104000
+12,The Count of Monte-Cristo,adventure,178,7.6,47000
+13,Bad Boys: Ride or Die,adventure,115,6.5,111000
+14,Inside Out 2,adventure,96,7.5,245000
+15,Kung Fu Panda 4,adventure,94,6.3,79000
+16,Borderlands,adventure,101,4.7,56000
+17,Despicable Me 4,adventure,94,6.2,76000
+18,Moana 2,adventure,100,6.3,123000
+19,Sonic the Hedgehog 3,adventure,110,6.9,78000
+20,Damsel,adventure,110,6.1,118000
+21,Kingdom of the Planet of the Apes,adventure,145,6.8,166000
+22,Transformers One,adventure,104,7.6,63000
+23,Godzilla x Kong: The New Empire,adventure,115,6.0,133000
+24,Red One,adventure,123,6.2,158000
+25,The Return,adventure,116,6.3,14000
+26,Hellboy: The Crooked Man,adventure,99,4.5,17000
+27,Spaceman,adventure,107,5.7,47000
+28,Mufasa: The Lion King,adventure,118,6.6,81000
+29,The Lord of the Rings: The War of the Rohirrim,adventure,134,6.3,39000
+30,The Unholy Trinity,adventure,95,5.5,6000
+31,Paddington in Peru,adventure,106,6.6,34000
+32,Rebel Moon - Part Two: The Scargiver,adventure,122,5.3,63000
+33,Sketch,adventure,93,6.6,5
+34,The Day the Earth Blew Up: A Looney Tunes Movie,adventure,91,6.8,8
+35,Arthur the King,adventure,107,7.0,38000
+36,The Garfield Movie,adventure,101,5.7,27000
+37,Attack on Titan the Movie: The Last Attack,adventure,145,9.2,25000
+38,Atlas,adventure,118,5.6,59000
+39,Monster Summer,adventure,97,5.7,7000
+40,No Way Up,adventure,90,4.6,12000
+41,Anaconda,adventure,84,4.8,1
+42,Uglies,adventure,100,4.7,36000
+43,Sasquatch Sunset,adventure,88,5.4,6
+44,Descendants: The Rise of Red,adventure,95,4.7,8
+45,Kalki 2898 AD,adventure,180,7.0,75000
+46,Wallace & Gromit: Vengeance Most Fowl,adventure,82,7.5,41000
+47,Solo Leveling: ReAwakening,adventure,121,8.7,16000
+48,Orion and the Dark,adventure,93,6.3,19000
+49,Badland Hunters,adventure,107,6.0,13000
+50,Woodwalkers,adventure,103,5.0,1
+51,Spellbound,adventure,109,5.5,8
+52,Harold and the Purple Crayon,adventure,90,5.7,9
+53,Lost on a Mountain in Maine,adventure,98,6.1,2
+54,Winner,adventure,103,6.5,3
+55,Bookworm,adventure,103,6.0,2
+56,The Trail,adventure,80,4.5,641
+57,Sunlight,adventure,96,6.6,438
+58,Manjummel Boys,adventure,135,8.2,33000
+59,Survive,adventure,90,4.6,4
+60,River of Blood,adventure,86,4.6,2
+61,Escape,adventure,94,6.4,2
+62,Please Don't Feed the Children,adventure,93,4.6,1
+63,Justice League: Crisis on Infinite Earths - Part Three,adventure,94,6.1,5
+64,My Penguin Friend,adventure,97,6.8,7000
+65,Cult Killer,adventure,105,4.8,3
+66,Bureau 749,adventure,123,3.9,758
+67,Dragonkeeper,adventure,98,5.8,2
+68,The Courier,adventure,101,6.1,5
+69,Gunner,adventure,106,3.1,3
+70,The Goat Life,adventure,173,7.1,50000
+71,The Great Lillian Hall,adventure,110,7.3,2
+72,Escape from the 21st Century,adventure,98,6.4,1
+73,Ultraman: Rising,adventure,117,6.9,7
+74,My Hero Academia: You're Next,adventure,110,7.0,3
+75,The Best Christmas Pageant Ever,adventure,99,6.8,8
+76,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,adventure,104,7.3,11000
+77,Family Pack,adventure,94,5.5,11000
+78,Buffalo Kids,adventure,81,6.6,1000
+79,The Traveller,adventure,134,5.3,282
+80,Megamind vs. The Doom Syndicate,adventure,83,2.4,6
+81,The Wages of Fear,adventure,104,4.6,4
+82,Overlord: The Sacred Kingdom,adventure,135,6.9,2000
+83,Robin and the Hoods,adventure,100,4.3,627
+84,Something in the Water,adventure,86,4.1,5
+85,Sixty Minutes,adventure,88,5.7,5
+86,Devara Part 1,adventure,176,6.0,23000
+87,Angels Fallen: Warriors of Peace,adventure,103,3.7,6
+88,Justice League: Crisis on Infinite Earths - Part Two,adventure,94,5.6,6
+89,Trifole,adventure,101,6.2,133
+90,Saving Bikini Bottom: The Sandy Cheeks Movie,adventure,82,3.6,4
+91,Night of the Zoopocalypse,adventure,91,6.0,1
+92,That Christmas,adventure,91,6.8,20000
+93,Justice League: Crisis on Infinite Earths - Part One,adventure,93,6.2,9
+94,76 Days Adrift,adventure,105,8.9,10
+95,Shrek 5: The Contract - A Fan Made Film,adventure,84,7.3,34
+96,Daye: Seret ahl el Daye,adventure,104,7.5,350
+97,Hanu Man,adventure,158,7.7,30000
+98,Heavier Trip,adventure,96,6.1,2000
+99,Captain Miller,adventure,157,7.1,14000
+100,"I, the Executioner",adventure,118,6.3,2
+101,A.R.M,adventure,150,7.1,10000
+102,The Empire,adventure,110,5.2,1
+103,Kanguva,adventure,152,4.5,16000
+104,Meanwhile on Earth,adventure,89,5.8,1
+105,Sunray: Fallen Soldier,adventure,115,4.4,882
+106,Son's Will,adventure,148,7.3,1
+107,Man and Witch: The Dance of a Thousand Steps,adventure,94,5.6,412
+108,Major Grom: The Game,adventure,168,6.2,2000
+109,Thelma the Unicorn,adventure,93,5.7,3
+110,A Legend,adventure,129,4.7,1
+111,School of Magical Animals 3,adventure,105,5.7,515
+112,Operation: Raqqa,adventure,107,5.6,583
+113,Legend of the White Dragon,adventure,90,7.9,54
+114,Woody Woodpecker Goes to Camp,adventure,100,4.5,2
+115,Hitpig,adventure,86,5.2,1
+116,The Tiger's Apprentice,adventure,84,5.8,2
+117,Golden Kamuy,adventure,127,6.3,2
+118,The Price of Money: A Largo Winch Adventure,adventure,100,5.1,1
+119,This Too Shall Pass,adventure,105,7.4,85
+120,Ayalaan,adventure,155,5.9,4
+121,Thangalaan,adventure,156,6.5,7
+122,Rally Caps,adventure,100,5.3,199
+123,Autumn and the Black Jaguar,adventure,100,5.7,1
+124,The Kingdom,adventure,133,5.8,258
+125,Bade Miyan Chote Miyan,adventure,163,3.7,41000
+126,The Twisters,adventure,86,2.6,562
+127,The Lost Tiger,adventure,90,5.1,135
+128,Roadkill,adventure,90,3.7,760
+129,Cells at Work!,adventure,109,6.7,1
+130,200% Wolf,adventure,98,5.7,1
+131,Operation Blood Hunt,adventure,93,3.4,686
+132,Doraemon the Movie: Nobita's Earth Symphony,adventure,115,6.6,1
+133,Witch Hunter,adventure,80,2.8,152
+134,The Last Redemption,adventure,121,6.6,7
+135,The Backrooms,adventure,63,7.9,37
+136,Saint-Exupéry,adventure,98,5.3,940
+137,The Magician's Raincoat,adventure,89,5.1,193
+138,Taklee Genesis x Worlds Collide,adventure,146,5.3,543
+139,Z-Mom,adventure,90,4.9,48
+140,The Royal Cat,adventure,97,5.5,76
+141,Noah's Ark,adventure,90,4.3,759
+142,Rebellious,adventure,94,6.1,298
+143,Empire Queen: The Golden Age of Magic,adventure,148,3.5,374
+144,The Last Ronin,adventure,115,4.9,710
+145,The Green Dinosaur,adventure,93,6.2,314
+146,Buddy,adventure,137,3.8,381
+147,The Mountain,adventure,89,6.3,294
+148,A Sloth Story,adventure,90,5.6,383
+149,The Goat,adventure,91,5.5,406
+150,At Her Feet,adventure,100,7.4,89
+151,My Oni Girl,adventure,112,6.0,2
+152,Bambi: A Tale of Life in the Woods,adventure,78,5.6,436
+153,Bionic,adventure,110,4.3,1
+154,Eat the Night,adventure,106,6.1,738
+155,The Proud Princess,adventure,84,6.2,241
+156,The Keepers of the 5 Kingdoms,adventure,109,4.1,260
+157,No Chains No Masters,adventure,98,6.3,862
+158,Unspeakable: Beyond the Wall of Sleep,adventure,90,3.5,182
+160,Kvitebjørn,adventure,85,6.1,153
+161,Panda Bear in Africa,adventure,84,5.5,465
+162,No Time to Spy: A Loud House Movie,adventure,81,6.3,578
+163,Planetquake,adventure,85,3.1,388
+164,Angelo dans la forêt mystérieuse,adventure,81,6.2,291
+165,Elli and Her Monster Team,adventure,86,4.9,145
+166,Vertical,adventure,111,4.9,167
+167,Road Wars: Max Fury,adventure,83,2.1,383
+168,Five Friends,adventure,112,6.7,1
+169,Storm Crashers,adventure,88,6.0,652
+170,The Primrose Railway Children,adventure,81,5.1,174
+171,The Firing Squad,adventure,93,5.0,5
+172,Big City Greens the Movie: Spacecation,adventure,83,6.2,667
+173,Crayon Shin-chan: Our Dinosaur Diary,adventure,106,6.6,827
+174,Lumina,adventure,113,3.9,10000
+175,Now or Never!,adventure,135,2.3,17000
+176,Mobile Suit Gundam SEED Freedom,adventure,124,6.5,1
+177,Seven Seas Seven Hills,adventure,90,7.1,115
+178,Guest from the Future,adventure,141,6.0,1
+179,Pimpinero: Blood and Oil,adventure,121,5.6,633
+180,The Casagrandes Movie,adventure,89,5.6,763
+181,Death Game,adventure,88,7.3,92
+182,War of the Worlds: Extinction,adventure,84,2.9,251
+183,My Freaky Family,adventure,86,6.0,491
+184,WWII: Operation Phoenix,adventure,106,3.9,144
+185,Gladiators,adventure,95,3.3,150
+186,Naa Saami Ranga,adventure,150,4.5,1
+187,Spiders on a Plane,adventure,78,3.6,591
+188,All for One,adventure,97,1.6,734
+189,Devil's Knight,adventure,90,4.7,1
+190,Its Name Was Mormo,adventure,93,3.6,263
+191,Birds Flying East,adventure,100,5.8,655
+192,Earthquake Underground,adventure,83,3.2,309
+193,My Fathers' Daughter,adventure,78,6.2,108
+194,Joachim and the Apocalypse,adventure,90,5.5,62
+195,Chuck Billy and the Marvelous Guava Tree,adventure,90,7.3,1
+196,"Maya, Give Me a Title",adventure,61,6.4,116
+197,Gracie and Pedro: Pets to the Rescue,adventure,87,5.0,344
+198,Gaami,adventure,147,6.3,2
+199,I Heart Robots,adventure,76,4.4,2
+200,Niko: Beyond the Northern Lights,adventure,86,6.1,495
+201,Alpha.,adventure,100,6.7,387
+202,Return to Wickensburg,adventure,88,4.7,116
+203,Dalia and the Red Book,adventure,107,5.8,250
+204,Dragon Ball Z Kai,adventure,82,8.4,140
+205,Dongeng Sang Kancil,adventure,99,6.8,271
+206,Fox & Hare Save the Forest,adventure,71,5.9,269
+207,Transformers Prime: Galavatron's Revenge,adventure,104,4.5,33
+208,Oscar Wilde About America,adventure,98,4.2,44
+209,The Big Trip 3: Race Around the World,adventure,85,4.6,135
+210,Treasure Trackers,adventure,92,5.6,212
+212,Killer Witches from Outer Space,adventure,82,3.6,169
+213,Kalvan,adventure,142,5.6,1
+214,Barroz: Guardian of Treasures,adventure,155,3.4,1
+215,Oculus,adventure,113,6.1,20
+216,Emma's Big Adventure,adventure,106,5.3,173
+217,Rocky Road to Berlin,adventure,104,7.2,1
+218,Kiyma: Orman Kanunlari,adventure,81,4.5,63
+219,Never Look Away,adventure,85,7.1,341
+220,Sam and Colby: The Legends of the Paranormal,adventure,98,4.8,328
+221,Chhota Bheem and the Curse of Damyaan,adventure,145,4.7,2
+222,Masha and the Bear: Wonder Park,adventure,58,6.7,38
+223,Stranded Pearl,adventure,90,6.5,60
+224,Ghost Island,adventure,95,7.0,66
+225,Diving Into the Darkness,adventure,96,7.3,122
+226,Nanoshark,adventure,68,3.5,82
+227,Going Viral,adventure,90,6.3,326
+228,Bull Shark 3,adventure,76,2.6,174
+229,One Million Babes BC,adventure,75,2.1,116
+230,I Hate Summer,adventure,103,5.2,777
+231,Great Pretender: Razbliuto,adventure,89,6.2,253
+232,Teenz,adventure,122,4.4,876
+233,Stinky Summer,adventure,90,5.3,64
+234,Dreams,adventure,106,6.4,13
+235,The Epidemic,adventure,95,5.9,72
+236,Heavens: The Boy and His Robot,adventure,98,7.4,36
+237,Arctic Hollow,adventure,70,2.2,208
+238,The Adventures of Jurassic Pet: Return to the Wild,adventure,90,5.3,121
+239,Dans l'ombre de Marlow,adventure,80,3.8,14
+240,Dead Dead Demon's Dededede Destruction Koushou,adventure,120,7.0,163
+241,Next to Us,adventure,125,4.8,239
+242,Bremenskie muzykanty,adventure,115,4.3,882
+243,Al Leib Maa Al Eyal,adventure,127,4.3,325
+244,Game of Death: The Six Doors to Hell,adventure,145,7.5,15
+245,The Phantom Warrior,adventure,119,2.3,586
+246,Dikkie Dik 2: Een nieuwe vriend voor Dikkie Dik,adventure,70,7.2,134
+248,Mama,adventure,100,8.5,10
+249,Ahl Al Kahf,adventure,120,5.2,362
+250,Marianengraben,adventure,87,6.8,128
+251,Tracing the Divide,adventure,84,7.8,208
+254,Jurassic Triangle,adventure,84,2.4,333
+255,A Trip Elsewhere,adventure,93,4.5,199
+256,Håkan Bråkan 2,adventure,92,5.4,205
+257,Norbert,adventure,75,6.3,36
+258,Powder Pup,adventure,89,5.8,94
+259,The Storm,adventure,102,6.0,160
+260,De Legende van Familie Vos,adventure,81,5.6,62
+261,Un lío de millones,adventure,91,5.3,367
+263,The Yoshi Movie,adventure,105,8.1,16
+265,The Slave and the Sorcerer,adventure,86,6.5,56
+266,Shadows of Betrayal: Chronicles of Ian Blair,adventure,65,7.3,18
+267,Kaizen,adventure,160,7.0,876
+268,Spirit Riser,adventure,98,6.2,48
+270,Dikkie Dik en de Verdwenen Knuffel,adventure,62,7.2,160
+272,Warrior Awang and Master Tok Gajah,adventure,118,4.7,502
+274,LasseMajas detektivbyrå - Maskoten som försvann,adventure,90,5.7,99
+277,Formed Police Unit,adventure,120,4.6,1
+278,Champions of the Golden Valley,adventure,81,7.7,127
+279,Fights Break Sphere 3,adventure,81,5.1,13
+280,Luigi's Mansion,adventure,60,5.6,21
+281,Kodaikanal,adventure,173,9.4,87
+282,Appu,adventure,92,7.7,210
+283,Letuchiy korabl,adventure,100,3.3,473
+284,Minecraft But I Survive Again in Parkour Civilization,adventure,114,8.7,68
+285,Igrisca ne damo!,adventure,79,5.8,138
+286,Game On,adventure,85,2.5,376
+287,Güzel Bir Rüya,adventure,79,4.9,66
+289,My Redneck Neighbor: Chapter 2 - Let the Games Begin,adventure,55,4.6,18
+290,Adam i Eva,adventure,95,4.4,111
+292,Ivan Tsarevich i Seryy Volk 6,adventure,85,5.4,141
+293,Monkey King Fight Lion Camel,adventure,74,4.0,7
+294,Il cammino - Viaggio in Calabria,adventure,58,8.3,10
+295,Steal the Naughty List,adventure,90,5.0,141
+296,The Waves of Madness,adventure,68,5.2,164
+297,Gepack,adventure,97,6.4,395
+298,Memes & Nightmares,adventure,81,5.7,98
+299,Zak & Wowo: The Legend of Lendarys,adventure,85,5.0,119
+300,Yolki 11,adventure,92,4.3,337
+301,Dead Dead Demon's Dededede Destruction,adventure,120,7.1,159
+302,Turma da Mônica Jovem: Reflexos do Medo,adventure,88,2.8,273
+304,Mong Vuot,adventure,96,4.8,198
+305,Dünya Varmis,adventure,100,6.6,74
+306,Fuuto PI: Portrait of Kamen Rider Skull,adventure,82,7.2,87
+307,Benjamin Bat,adventure,75,7.5,47
+308,Strange Things in Western Hunan,adventure,72,6.8,63
+310,Anytime,adventure,62,8.4,34
+311,Tulang Belulang Tulang,adventure,95,7.1,58
+312,Die Chaosschwestern und Pinguin Paul,adventure,100,5.4,78
+313,Chernyy zamok,adventure,115,5.0,78
+314,The Star City Murders,adventure,79,4.0,162
+316,Triple 7: They Said It Couldn't Be Done,adventure,97,8.6,16
+317,Ice Maiden,adventure,90,8.3,102
+318,The Forest,adventure,77,5.2,69
+320,Amazon Bullseye,adventure,113,5.3,263
+321,"Silex and the City, le film",adventure,77,4.7,67
+322,Askepote,adventure,72,3.5,104
+323,Permafrost,adventure,80,4.2,134
+324,Ne odna doma,adventure,79,3.2,146
+325,Samaya bolshaya luna,adventure,105,2.3,158
+327,Tri bogatyrya. Ni dnya bez podviga,adventure,61,5.0,128
+328,Cândido,adventure,99,6.2,79
+329,Manyunya. Priklyucheniya v derevne,adventure,84,5.5,134
+333,Jathara,adventure,129,6.5,1
+335,The Eye of the Salamander,adventure,81,5.7,52
+336,Baba Yaga spasaet Novyy god,adventure,99,4.5,192
+337,Tri kota. Zimnie kanikuly,adventure,65,6.4,46
+338,Tipppsy,adventure,115,8.1,35
+341,Hain,adventure,95,3.1,55
+342,Big Water Theory,adventure,83,8.1,22
+343,Captain Avispa,adventure,96,5.7,192
+344,Cazatesoros,adventure,106,6.6,35
+347,Xin Longmen kezhan,adventure,73,3.1,8
+349,The Secret of Pin-Up Island,adventure,107,7.1,104
+350,This Land of Mine,adventure,90,5.0,93
+352,Longe da Estrada,adventure,106,6.4,46
+353,Oyunda Kal: Eglence Arenasi,adventure,92,2.4,44
+354,Beyond existence,adventure,95,4.1,27
+355,Dünya Mali: Eksi Bir,adventure,133,7.1,23
+357,Six Nine Five (695),adventure,137,7.1,712
+358,The Worlds Divide,adventure,120,7.9,60
+360,Wonderland,adventure,120,6.8,14
+362,Piraty galaktiki Barrakuda,adventure,92,4.5,100
+364,"Fallen Leaves, Broken Lighters",adventure,96,8.0,8
+365,Frankenstein Theater: The Magic Sword,adventure,82,4.1,28
+366,Of a Lifetime,adventure,45,9.2,42
+367,Yaren Leylek,adventure,95,5.0,42
+368,The Enchanted Tinderbox,adventure,105,5.5,310
+369,Satu - Year of the Rabbit,adventure,93,9.0,65
+371,Gekijô-ban Nintama Rantarô Dokutake Ninja-tai Saikyô no Gunshi,adventure,90,7.0,79
+372,Pui Pui Molcar the Movie: Molmax,adventure,69,6.7,31
+373,Jaunt,adventure,78,7.9,10
+374,The Last of Us: Immunity,adventure,64,4.0,41
+377,My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,adventure,74,4.7,18
+378,The Umbrella Fairy,adventure,95,5.9,73
+379,Xibalba Monster,adventure,76,6.7,42
+383,Son of the Wolf,adventure,82,3.3,10
+384,Colour Palette,adventure,87,9.4,54
+385,Nature Cat's Nature Movie Special Extraordinaire,adventure,53,7.3,25
+389,Bam!,adventure,80,7.2,34
+391,The Very Last Christmas,adventure,75,8.6,12
+392,Kade,adventure,92,6.4,22
+394,Tokusou Sentai Dekaranger 20th: Fireball Booster,adventure,50,7.3,46
+395,Na Zha: Mo tong gui lai,adventure,79,4.4,7
+396,Rocky and Bullwinkle,adventure,100,8.6,24
+397,Si Juki the Movie: Harta Pulau Monyet,adventure,107,6.3,157
+399,Zoloto Umalty,adventure,109,4.9,119
+400,Operation Wakaliga: Fate and Blood,adventure,66,6.7,13
+401,Boom!,adventure,90,7.6,19
+403,The Ghost of Annie Lee,adventure,103,4.8,7
+404,Suchana,adventure,90,8.6,512
+406,No More Trouble - Cosa rimane di una tempesta,adventure,97,8.5,24
+407,Banana Boat,adventure,78,5.8,27
+410,Troy the Bharat Putra,adventure,134,5.2,34
+411,Bar MoskvaChiki,adventure,91,4.4,118
+412,Shanghai Story,adventure,71,8.0,70
+413,Manyunya. Priklyucheniya v Moskve,adventure,87,5.5,123
+414,Mobile Suit Gundam: Silver Phantom,adventure,90,6.0,21
+416,Mesken (Messuage),adventure,99,7.0,58
+417,Moy lyubimyy chempion,adventure,95,2.3,422
+418,Devka-baba: Kukla-charodeyka,adventure,93,4.7,23
+419,Nothing Unusual,adventure,92,8.2,18
+421,Pirates & Slaves,adventure,53,5.8,8
+422,Abudeka Is Back,adventure,120,5.6,65
+424,Historia de pastores,adventure,80,5.5,45
+427,The Dragon's Tomb,adventure,77,6.7,62
+430,Novyy god v Beryozovke,adventure,94,3.7,124
+431,Vikaasaparva,adventure,134,8.4,547
+434,Farragut Forward,adventure,52,6.9,20
+436,Orango,adventure,94,7.2,76
+437,The Cold Father,adventure,74,6.9,22
+438,Vasilisa i khraniteli vremeni,adventure,98,3.0,95
+439,Petualangan Anak Penangkap Hantu,adventure,99,5.8,31
+440,Tur s Ivanushkami,adventure,111,5.3,182
+441,Mai Martaba,adventure,86,5.9,14
+442,Príncipe Lu e a Lenda do Dragão,adventure,90,4.2,34
+443,Surge of Power: Where There's Smoke,adventure,68,5.5,19
+444,STEVE (A Minecraft Movie),adventure,61,7.8,19
+446,Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,adventure,71,6.6,47
+447,Yasmeen's Element,adventure,76,7.7,24
+451,Moy dikiy drug,adventure,100,6.2,84
+455,Mountain Boy,adventure,93,8.0,33
+456,The Farm,adventure,104,8.0,9
+457,Antarctic Voyage,adventure,48,6.9,16
+458,Tay 2: Ebabil Takimi,adventure,78,5.1,49
+459,Luccas e Gi em: Dinossauros,adventure,91,3.6,30
+461,YA - medved,adventure,97,4.9,68
+462,Dracu Ra,adventure,106,5.8,52
+463,Qianhe xiansheng,adventure,82,4.9,7
+470,Lo carga el diablo,adventure,103,7.7,34
+471,The Bigfoot Prophecy,adventure,117,3.7,38
+472,Il ricercatore,adventure,71,6.4,9
+474,Friendly Fire,adventure,105,5.9,75
+482,Bratya,adventure,103,2.9,155
+483,Wilhelm Gustloff,adventure,110,8.7,10
+485,Dzhekpot,adventure,87,6.2,5
+486,QAnon Avenue,adventure,57,8.7,10
+487,Goodbye Hamdi,adventure,85,6.6,12
+489,V potoke trekh stikhiy,adventure,85,5.0,48
+493,StarGazer: The Need of the Many,adventure,47,4.3,14
+496,Poklad,adventure,100,4.3,71
+498,Changle zhen gui shi,adventure,88,4.8,8
+504,Chyortov kamen,adventure,105,3.8,26
+506,The Blinkless,adventure,59,6.9,21
+510,The Ballad of Straw Hat Sam,adventure,45,8.5,14
+513,The Kingfish 2,adventure,72,7.7,13
+514,Let's Go! Anpanman: Baikinman and Lulun,adventure,64,5.9,10
+515,Okhota na russkogo geniya,adventure,71,4.4,17
+518,Abá e Sua Banda,adventure,84,7.0,32
+519,Beyaz Zenciler: Yapim Asamasi,adventure,55,9.2,70
+521,Isle: Alpha One,adventure,97,8.5,11
+522,Gostya iz kosmosa,adventure,70,8.7,8
+539,Captain Toad and the Mystery Mine,adventure,77,9.1,19
+549,Famous Patrick (A Super SpongeBob Fan Movie),adventure,53,9.3,24
+550,The Last Five Days: The Freak Building,adventure,61,3.6,67
+551,Ngesot,adventure,87,4.9,19
+553,Whites Only: Ade's Extremist Adventure,adventure,65,6.7,31
+555,Skazochnyy patrul. Shou prodolzhayetsya,adventure,65,7.5,11
+556,Advent,adventure,119,6.7,11
+560,Abar Arownne Din Ratri,adventure,111,8.0,9
+567,"Poymay sobaku, esli smozhesh",adventure,96,3.5,48
+569,Novogodniy ekspress,adventure,47,6.0,13
+574,The Long Quiet,adventure,94,9.4,22
+575,Oda: Vlucht door de Eeuwen,adventure,102,7.3,7
+580,Tayna Chyornoy Ruki,adventure,84,5.6,25
+581,Mukhadrakon,adventure,109,5.0,19
+582,I'm Professional,adventure,95,4.6,9
+586,Turbozavry. God drakona,adventure,48,8.7,46
+598,Piri Reis: The Incredible Chart,adventure,138,6.8,28
+599,Applepictures the Poseidon Legacy,adventure,84,6.6,21
+600,Lajjpal,adventure,252,9.0,8
+601,Suvorovets 1944,adventure,90,3.5,31
+605,Dandelion,adventure,95,8.8,10
+606,Selebryata,adventure,93,3.6,21
+621,SITV Presents: Tabsentia,adventure,80,8.3,10
+622,PW V: Tears of the Fallen,adventure,60,8.2,10
+623,Sehnsucht nach Firdaws,adventure,103,8.7,7
+624,Yao guai sen lin,adventure,86,5.7,10
+1,A Complete Unknown,biography,141,7.3,114000
+2,I'm Still Here,biography,137,8.1,145000
+3,The Apprentice,biography,122,7.1,72000
+4,Queer,biography,137,6.3,29000
+5,Back to Black,biography,122,6.3,30000
+6,William Tell,biography,134,5.7,7
+7,Ordinary Angels,biography,118,7.4,19000
+8,Saturday Night,biography,109,6.9,38000
+9,Better Man,biography,135,7.5,44000
+10,Rob Peace,biography,120,6.6,2
+11,The Luckiest Man in America,biography,91,6.2,7
+12,The Outrun,biography,118,6.9,21000
+13,Scoop,biography,102,6.5,22000
+14,Queen of the Ring,biography,140,6.4,3
+15,Maria,biography,124,6.4,25000
+16,Nr. 24,biography,111,7.5,20000
+17,Unfrosted,biography,97,5.5,37000
+18,Young Woman and the Sea,biography,129,7.5,20000
+19,Bob Marley: One Love,biography,107,6.2,39000
+20,Joy,biography,115,7.1,12000
+21,Reagan,biography,141,6.2,13000
+22,The Remarkable Life of Ibelin,biography,103,8.1,15000
+23,Cabrini,biography,142,7.3,9
+25,Unsung Hero,biography,113,7.0,5
+26,Monsieur Aznavour,biography,133,7.2,4
+27,Piece by Piece,biography,93,6.9,7
+28,Pavements,biography,128,7.0,1
+29,Undercover,biography,118,7.1,6000
+30,Amaran,biography,167,8.1,24000
+31,Music by John Williams,biography,105,8.2,5
+32,Race for Glory: Audi vs. Lancia,biography,109,5.8,5
+33,Riefenstahl,biography,115,7.2,1
+34,One to One: John & Yoko,biography,101,7.2,1
+35,Avicii - I'm Tim,biography,95,7.7,8
+36,Amar Singh Chamkila,biography,145,7.8,17000
+37,El 47,biography,110,7.2,4
+39,Reading Lolita in Tehran,biography,108,6.1,1
+40,The Fire Inside,biography,109,6.7,3
+41,Goebbels and the Führer,biography,135,6.7,3
+42,A Bronx Tale: The Original One Man Show,biography,95,8.3,63
+43,The Time It Takes,biography,110,6.7,582
+44,Midas Man,biography,112,6.4,2
+45,Jim Henson: Idea Man,biography,111,7.7,4
+46,Faith of Angels,biography,98,6.2,449
+47,Freedom,biography,110,5.9,1
+48,The Great Ambition,biography,123,7.0,1
+49,The Truth vs. Alex Jones,biography,121,7.4,3
+50,Bir Cumhuriyet Sarkisi,biography,128,7.4,1
+51,Billy Preston: That's the Way God Planned It,biography,105,8.7,38
+52,Being Maria,biography,100,6.1,1
+53,Elton John: Never Too Late,biography,102,6.6,2
+55,Main Atal Hoon,biography,139,6.9,6
+56,Audrey's Children,biography,110,6.8,939
+57,Shirley,biography,117,6.2,3
+58,McVeigh,biography,90,4.4,851
+59,Super/Man: The Christopher Reeve Story,biography,104,8.0,11000
+60,"From Hilde, with Love",biography,125,7.0,1
+61,Boléro,biography,120,6.5,1
+62,Limonov: The Ballad of Eddie,biography,138,5.8,1
+63,Bob Mackie: Naked Illusion,biography,105,7.7,113
+64,Gundi: Legend of Love,biography,166,8.9,5
+65,I Am Nevenka,biography,112,7.0,1
+66,Swatantrya Veer Savarkar,biography,176,7.7,18000
+67,Faye,biography,91,7.1,3
+68,Paul Anka: His Way,biography,100,7.4,172
+69,Obraz,biography,95,7.9,87
+70,Saint Nick of Bethlehem,biography,93,6.9,159
+71,Filmlovers!,biography,88,6.1,307
+72,Bonhoeffer: Pastor. Spy. Assassin.,biography,133,6.2,4
+73,Tura!,biography,105,7.1,159
+74,Harbin,biography,108,6.3,1
+75,Maharaj,biography,131,6.5,16000
+76,Drazen,biography,100,6.4,2000
+77,Maidaan,biography,181,7.9,23000
+78,Chandu Champion,biography,142,7.8,36000
+79,Little Bites,biography,105,4.7,1
+80,Liza: A Truly Terrific Absolutely True Story,biography,104,7.5,710
+81,Road Diary: Bruce Springsteen and the E Street Band,biography,99,7.7,1
+83,Srikanth,biography,134,7.4,15000
+84,Nedelja,biography,130,7.2,2000
+85,The Ballad of Davy Crockett,biography,96,4.6,301
+86,Cookster: The Darkest Days,biography,119,6.5,100
+87,Wingless,biography,110,7.2,324
+88,The Shamrock Spitfire,biography,108,5.2,588
+89,Stelios,biography,132,7.2,2
+90,The Bibi Files,biography,115,7.6,1
+91,Quisling: The Final Days,biography,146,7.1,1
+92,Biggest Heist Ever,biography,85,6.1,1
+93,The Flood,biography,101,6.3,480
+94,Fanon,biography,132,6.3,322
+95,ZEF: The Story of Die Antwoord,biography,90,7.4,999
+96,La Casa,biography,83,6.8,1
+97,I Am: Celine Dion,biography,103,7.7,8
+98,Hola Frida,biography,82,6.9,151
+99,Marco,biography,101,6.9,1
+100,The Divine Sarah Bernhardt,biography,98,6.3,536
+101,I'm Your Venus,biography,85,7.1,685
+102,Niki,biography,98,6.0,658
+104,Federer: Twelve Final Days,biography,88,7.3,4
+105,Havnaa,biography,110,6.8,567
+106,Lula,biography,90,5.2,244
+107,Ataturk II: 1881-1919,biography,141,8.8,3000
+109,Oxana,biography,103,6.1,215
+110,Miséria,biography,99,3.8,122
+111,The Beach Boys,biography,113,7.1,2
+112,Luther: Never Too Much,biography,101,8.1,1
+113,Samia,biography,102,6.7,239
+114,Jenni,biography,113,6.1,61
+115,"Disco, Ibiza, Locomia",biography,104,6.0,1
+116,Nahir,biography,122,4.7,1
+117,Beautiful Rebel,biography,112,6.2,1
+120,Ravens,biography,117,7.8,104
+121,Clemente,biography,101,8.0,135
+122,Blur: To the End,biography,104,7.1,890
+124,Miyazaki: Spirit of Nature,biography,84,7.0,447
+126,Prodigies,biography,101,6.6,404
+127,Patrice: The Movie,biography,102,7.9,311
+128,The Ballad of Suzanne Césaire,biography,75,5.3,69
+129,Schindler Space Architect,biography,93,7.5,24
+130,Invention,biography,72,5.9,252
+131,A Wolf Among the Swans,biography,110,7.4,89
+132,National Theatre Live: Nye,biography,160,8.1,323
+133,Sharon Stone: Survival Instinct,biography,52,6.7,109
+134,Ernest Cole: Lost and Found,biography,105,7.3,507
+135,Unexplainable,biography,116,7.1,412
+137,Garip Bülbül: Neset Ertas,biography,130,6.2,27
+138,Ae Watan Mere Watan,biography,133,4.7,1
+139,Bogart: Life Comes in Flashes,biography,99,6.8,553
+140,House of Ga'a,biography,119,4.0,505
+141,Tears of Cem Karaca,biography,123,7.1,2
+142,The Life and Deaths of Christopher Lee,biography,99,7.2,559
+144,Garbo: Where Did You Go?,biography,90,5.9,352
+145,Until the Last Promise,biography,95,3.4,129
+146,The Worst Man in London,biography,127,5.7,179
+147,Vindication Swim,biography,98,5.9,246
+148,Bad Bunny: Global Takeover,biography,60,2.3,9
+149,"Iki Gözüm Ahmet, Sürgün",biography,113,3.5,144
+150,Levoton Tuhkimo,biography,88,6.2,717
+151,Hayatla Baris,biography,125,6.3,462
+152,The Sidemen Story,biography,99,6.6,1
+153,Faruk,biography,97,6.6,505
+154,John Cranko,biography,133,6.9,255
+155,Münter & Kandinsky,biography,126,6.2,178
+156,Sadik Ahmet,biography,125,7.5,480
+157,Ol' Dirty Bastard: A Tale of Two Dirtys,biography,86,6.7,258
+158,Chhava,biography,51,8.4,2
+159,Papa,biography,131,7.5,396
+160,Simona Kossak,biography,100,6.0,494
+161,Silvio,biography,114,3.1,611
+162,The Man Who Loved UFOs,biography,107,5.3,683
+163,Laura,biography,104,6.4,296
+164,Blue Road: The Edna O'Brien Story,biography,99,7.7,132
+165,Sabbath Queen,biography,105,7.5,84
+166,Becoming Madonna,biography,91,6.7,673
+167,Elie Wiesel: Soul on Fire,biography,87,8.4,46
+168,From Roger Moore with Love,biography,79,7.3,652
+169,The Peanut Man,biography,89,5.6,89
+170,Dharmaveer 2,biography,130,5.4,11000
+172,Madu,biography,100,5.4,283
+174,La Grande,biography,95,9.1,45
+175,Shahid,biography,83,5.9,108
+176,Taghiev: Oil,biography,104,8.6,167
+177,Under the Grey Sky,biography,81,7.0,87
+178,Klitschko: More Than a Fight,biography,96,6.4,541
+179,Satyashodhak,biography,145,8.2,393
+180,Art Spiegelman: Disaster Is My Muse,biography,98,7.7,182
+181,A Photographic Memory,biography,87,7.4,77
+182,Suzzanna: The Queen of Black Magic,biography,88,6.7,102
+183,Nasty,biography,103,7.7,1
+184,Yatra 2,biography,132,6.3,9
+185,Janis Ian: Breaking Silence,biography,114,7.6,211
+186,Dogs of War,biography,90,6.8,69
+187,Karina,biography,90,6.5,125
+188,Chhatrapati Sambhaji,biography,186,5.3,242
+189,Eterno visionario,biography,112,6.2,251
+190,Stevie Van Zandt: Disciple,biography,147,7.9,750
+191,Il était une fois Michel Legrand,biography,109,7.7,90
+192,Hope of Escape,biography,91,7.3,55
+193,Gary,biography,91,6.6,606
+194,Zuckerberg: King of the Metaverse,biography,90,5.8,288
+195,Blood'less' Revolution,biography,103,6.6,345
+196,"Carville: Winning Is Everything, Stupid",biography,98,7.2,293
+197,Rock Bottom,biography,86,6.4,80
+198,Go Against the Flow,biography,97,5.3,195
+199,Marcella,biography,97,8.1,67
+200,Sally!,biography,96,9.0,62
+201,Raghuveer,biography,125,8.9,69
+202,Komandir,biography,144,6.3,558
+203,Estimados Señores,biography,98,7.6,94
+204,Dinner with Leatherface,biography,106,7.3,68
+205,Bach - Ein Weihnachtswunder,biography,89,6.3,231
+206,Funmilayo Ransome-Kuti,biography,91,8.5,104
+207,The Great Tram Robbery,biography,90,5.7,21
+208,Kulej. Dwie strony medalu,biography,148,6.4,395
+209,Michael Jackson: Ungloved,biography,60,6.5,33
+210,The World According to Allee Willis,biography,97,8.0,130
+211,Padatik,biography,126,7.7,127
+212,Looking for Simone,biography,93,7.0,47
+213,Becoming Hitchcock: The Legacy of Blackmail,biography,72,7.2,357
+214,Chabuca,biography,113,6.7,275
+215,Ennio Doris - C'è anche domani,biography,90,4.7,120
+216,Thirty Years with the Whip,biography,89,5.5,16
+217,La valanga azzurra,biography,90,7.9,16
+219,"Kati: Eine Kür, die bleibt",biography,99,6.1,101
+222,Da Vinci,biography,81,8.4,104
+223,Powstaniec 1863,biography,115,5.2,161
+224,Petra Kelly - Act Now!,biography,104,7.6,63
+227,Alí Primera,biography,120,7.0,12
+229,Vivekam,biography,104,8.0,311
+230,Born to Be Wild: The Story of Steppenwolf,biography,100,7.1,76
+231,Mit einem Tiger schlafen,biography,107,6.8,164
+233,Pastor's Kid,biography,90,5.9,54
+234,Giannis in the Cities,biography,90,7.2,37
+236,Diane von Furstenberg: Woman in Charge,biography,97,7.2,355
+237,Harta Tahta Raisa,biography,110,4.1,73
+238,The Truth: The Journey Within,biography,91,6.3,10
+239,Gold,biography,126,7.8,91
+240,Concepción,biography,140,7.8,33
+241,Sube a mi Nube,biography,110,6.0,69
+242,"Siggi - drengen, der blev FBI-spion",biography,90,6.6,168
+243,"François Truffaut, le scénario de ma vie",biography,98,7.0,66
+244,Memoir Seorang Guru,biography,120,7.1,150
+245,Nollbudget,biography,72,8.5,12
+247,Un hombre libre,biography,88,7.1,49
+248,Dr. Hedgewar,biography,160,7.1,18
+250,Hyper: The Stevie Hyper D Story,biography,91,8.8,33
+251,Don't Ever Stop,biography,85,9.2,40
+252,The Movie Man,biography,89,7.7,251
+253,"Sean Penn, L'enfant terrible de l'Amérique",biography,52,7.0,77
+254,Daytime Revolution,biography,108,6.8,130
+256,Misty - The Erroll Garner Story,biography,100,7.3,58
+257,Ett hjärta är alltid rött,biography,103,7.1,424
+258,Padu,biography,97,5.3,90
+261,Cartas Telepáticas,biography,70,4.9,40
+263,30 to 45,biography,118,3.1,29
+264,Charmian Clift: Life Burns High,biography,80,7.1,19
+265,COMA,biography,80,8.1,15
+266,Son Sarki: Ahmet'in Türküsü,biography,101,1.6,118
+268,Ruki vverkh!,biography,102,5.5,295
+269,Ray of Hope,biography,105,7.4,13
+270,Bröderna Andersson,biography,84,7.2,157
+271,Harimau Malaya: The Untold Journey,biography,125,8.0,28
+273,Ismo - maailman hauskin ulkopuolinen,biography,98,7.1,351
+274,Parviz Khan,biography,110,5.9,246
+275,Ago,biography,80,8.0,9
+276,Spyral,biography,83,8.8,25
+278,Ninety Minutes Later,biography,88,7.5,14
+279,Beethoven's Nine: Ode to Humanity,biography,85,6.9,30
+280,Lafran,biography,99,8.4,20
+281,Yaremchuk: Nezrivniannyi svit krasy,biography,92,8.6,547
+282,Glenn Fredly: The Movie,biography,121,6.6,144
+285,Citizen Glenn,biography,55,8.5,107
+286,Who Killed Lawrence of Arabia?,biography,100,6.0,38
+287,The Legend of Sudarshan Chakra,biography,160,9.0,31
+288,Kai Jones' Falling into Place,biography,59,8.3,17
+289,Main Mulayam Singh Yadav,biography,120,3.8,211
+290,Barnen från Camp Ashraf,biography,88,5.6,23
+291,A nuestros amigos,biography,90,7.5,18
+294,Giroud,biography,80,6.7,38
+295,"Marisol, llámame Pepa",biography,87,6.8,132
+296,Luiz Melodia: No Coração do Brasil,biography,75,7.6,43
+299,"Mary, Marianna, Maria: Ta agnosta ellinika hronia tis Kallas",biography,103,7.7,20
+300,"Lupicinio Rodrigues, Confissões de um Sofredor",biography,99,7.4,14
+301,Kylie Minogue: Pop Icon,biography,50,5.6,17
+302,The Man Died,biography,105,2.5,24
+304,O familie aproape perfecta,biography,88,5.9,24
+309,Im Schatten der Träume,biography,90,8.0,16
+310,Not Taken: Origins,biography,69,9.0,9
+311,Carles Sabater. No espereu res de mi,biography,75,7.7,24
+314,Graceball: The Story of Bobby Richardson,biography,54,6.8,9
+316,Malevych,biography,90,5.8,96
+318,Beethoven's Nine,biography,90,7.5,16
+319,Seu Cavalcanti,biography,78,8.2,10
+320,Niepewnosc. Zakochany Mickiewicz,biography,113,3.7,64
+322,Diddy: Summit to Plummet,biography,60,2.4,228
+323,The Ballad of John and Yoko,biography,101,8.6,25
+324,Soares é Fixe,biography,83,4.7,83
+329,Janet Jackson: In Control,biography,60,5.4,12
+331,Nonkonform,biography,117,7.7,31
+332,Graciano Rocchigiani - Das Herz eines Boxers,biography,123,9.1,53
+340,Waldo,biography,104,6.6,27
+341,"Jacques Demy, le rose et le noir",biography,88,6.9,19
+342,Nebesko,biography,73,5.1,13
+348,La Joia: Bad Gyal,biography,92,5.7,96
+350,La herencia de Flora,biography,134,5.8,7
+351,Manyam Dheerudu,biography,114,6.2,4
+352,Veljko od mora,biography,53,7.4,18
+361,Knock Out Blonde: The Kellie Maloney Story,biography,90,6.2,25
+362,87 Candles,biography,55,9.2,12
+367,Brev til Håkon Banken,biography,80,8.2,31
+373,Me Dicen El Panzer,biography,90,7.7,16
+374,Fedya. Narodnyy futbolist,biography,125,6.0,156
+375,Der Soldat Monika,biography,109,6.9,36
+376,"Dolly Parton: Bigger Hair, Bigger Heart",biography,60,6.5,20
+379,"Steven Spielberg, l'homme et l'enfant",biography,56,6.7,78
+380,Reba McEntire: Country Gold,biography,60,7.4,12
+381,It'll Never Work,biography,57,9.5,33
+382,Golpe a Golpe (Blow by Blow),biography,90,8.1,23
+383,Simply Johanne,biography,75,7.2,6
+384,Iyunskaya polyn,biography,79,8.1,10
+385,Cutting Squares,biography,128,3.6,7
+390,Roman Kostomarov. Rozhdennyy dvazhdy,biography,77,4.3,7
+391,All Access to Rossa 25 Shining Years,biography,91,8.7,66
+392,9 sekund,biography,91,4.6,74
+393,Insula Fondane (Fondane Island),biography,82,9.0,11
+395,L'amore e la gloria - La giovane Deledda,biography,105,7.6,8
+402,¡Qué suerte hemos tenido!,biography,62,7.4,20
+403,Lulu in Turin,biography,76,8.5,6
+409,Riv i hjertet,biography,107,6.8,57
+411,Zvanetskiy,biography,90,6.4,24
+412,Rhythm of a Flower,biography,81,7.2,17
+413,Rinnans rival,biography,94,7.0,5
+420,"Georges Pompidou, la cruauté du pouvoir",biography,104,7.2,8
+421,Rada,biography,73,8.8,5
+432,Tapes of Revolution,biography,75,9.4,8
+433,"À l'école de l'universel: Germaine Le Goff, l'histoire d'une pionnière",biography,53,7.8,8
+443,Maurice And I,biography,98,8.8,30
+454,Palace Guardians,biography,64,9.7,28
+471,Davaj Paradiso,biography,63,6.9,43
+473,Giannis Spanos: Piso ap' ti markiza,biography,118,7.7,21
+475,Shaking It Up: The Life and Times of Liz Carpenter,biography,77,8.2,11
+476,Toquinho: Encontros e um Violão,biography,90,8.8,6
+478,Mr Bakhshdar,biography,60,2.3,16
+1,IF,family,104,6.4,0
+10,Young Hearts,family,99,7.9,0
+13,How to Make Millions Before Grandma Dies,family,125,7.9,0
+16,Big World,family,131,7.4,0
+18,Girl Haunts Boy,family,100,6.3,0
+21,The Forge,family,124,6.8,0
+30,Meiyazhagan,family,177,8.5,0
+32,The Thundermans Return,family,70,5.0,0
+37,Panda Plan,family,99,5.1,0
+38,You Gotta Believe,family,104,5.9,0
+40,Cup,family,146,8.5,0
+43,Paper Flowers,family,100,7.8,0
+45,A Sudden Case of Christmas,family,91,5.1,0
+50,Laggam,family,130,8.3,0
+1,The Life of Chuck,fantasy,111,7.3,60000
+2,Nosferatu,fantasy,132,7.1,260000
+4,Wicked,fantasy,160,7.3,225000
+7,The Watchers,fantasy,102,5.7,68000
+8,Venom: The Last Dance,fantasy,110,6.0,151000
+11,Beetlejuice Beetlejuice,fantasy,105,6.6,171000
+15,Megalopolis,fantasy,138,4.7,41000
+18,Nightbitch,fantasy,99,5.5,24000
+19,Parthenope,fantasy,137,6.5,20000
+21,40 Acres,fantasy,113,6.5,6
+25,Mahavatar Narsimha,fantasy,130,8.5,45000
+26,The Wonderful Story of Henry Sugar and Three More,fantasy,88,7.1,12000
+27,The Crow,fantasy,111,4.7,41000
+34,The Tearsmith,fantasy,103,5.2,14000
+36,The End,fantasy,148,5.4,3
+37,The Master and Margarita,fantasy,156,7.1,6
+39,Went Up the Hill,fantasy,100,5.4,470
+43,Dear Santa,fantasy,107,5.4,22000
+45,Irish Wish,fantasy,93,5.3,23000
+46,Pedro Páramo,fantasy,130,6.3,3
+47,Witchy Ways,fantasy,98,5.5,168
+48,Happyend,fantasy,113,6.8,1
+49,Hot Frosty,fantasy,92,5.3,16000
+50,Timestalker,fantasy,89,5.5,3
+52,Wynonna Earp: Vengeance,fantasy,96,5.5,1
+55,The American Society of Magical Negroes,fantasy,104,3.8,13000
+58,Else,fantasy,102,5.4,827
+61,The Balconettes,fantasy,104,5.8,2
+64,Kang Mak,fantasy,122,6.4,1
+65,Assassin's Guild,fantasy,103,2.9,205
+68,Dan Da Dan: First Encounter,fantasy,83,8.2,3
+73,Hiçbir Sey Normal Degil,fantasy,71,6.1,176
+78,Arthur's Whisky,fantasy,94,4.9,1
+79,Hagen,fantasy,139,6.0,1
+80,Cinderella's Revenge,fantasy,85,3.8,1
+82,Tim Travers & the Time Travelers Paradox,fantasy,95,5.4,828
+83,Alienoid: The Return to the Future,fantasy,122,6.5,3
+86,Nie Xiaoqian,fantasy,112,6.5,26
+87,A Dog's Will 2,fantasy,104,6.1,3
+89,This Is Me... Now,fantasy,65,4.1,7
+93,Bhool Bhulaiyaa 3,fantasy,158,4.6,79000
+95,Pechi,fantasy,110,5.5,1
+96,The Mouse Trap,fantasy,80,2.4,4
+97,The Witch: Revenge,fantasy,100,5.3,1000
+98,Mars,fantasy,84,7.3,45
+99,Natural Phenomena,fantasy,80,6.9,42
+100,10 Lives,fantasy,88,6.0,2
+102,White Snake: Afloat,fantasy,133,6.9,779
+104,Vadakkan,fantasy,112,6.1,6
+107,Fluxx,fantasy,100,4.0,321
+108,Cinderella's Curse,fantasy,82,3.4,1
+109,Exorcism Chronicles: The Beginning,fantasy,85,6.2,338
+111,Harry Potter and the Stone,fantasy,152,7.7,234
+112,Super-Charlie,fantasy,82,5.7,381
+114,Ryan's World the Movie: Titan Universe Adventure,fantasy,80,1.8,840
+116,The Sleeping Woman,fantasy,110,5.2,698
+117,The Sand Castle,fantasy,98,4.7,1
+118,Mononoke the Movie: The Phantom in the Rain,fantasy,89,6.8,1
+119,Kuttante Shinigami,fantasy,112,5.2,66
+120,A Fisherman's Tale,fantasy,103,5.3,408
+121,Re: Zero - Starting Life in Another World- Season 3 Episode 1 90-minute Special 'Theatrical Malice',fantasy,90,8.8,1
+122,The Night Before Christmas in Wonderland,fantasy,80,6.3,677
+124,The Devil's Disciples,fantasy,79,3.9,654
+125,River Returns,fantasy,109,7.1,81
+126,Oshi no Ko: The Final Act,fantasy,129,6.2,255
+127,Chantal in Fairyland,fantasy,118,4.6,3000
+128,Warchief,fantasy,94,2.5,669
+130,The Invisibles,fantasy,111,5.9,697
+131,"Love, Danielle",fantasy,79,8.7,67
+132,Bloody Mary,fantasy,72,3.2,59
+135,"Die Heinzels: Neue Mützen, Neue Mission",fantasy,76,5.9,181
+136,The Black Hole,fantasy,115,6.0,367
+144,Heresy,fantasy,61,6.7,419
+147,Phallacies,fantasy,101,6.7,17
+148,Seven Cemeteries,fantasy,84,4.6,745
+149,My Future You,fantasy,109,7.2,399
+150,Videotheque,fantasy,112,4.7,222
+152,Witch,fantasy,107,4.8,1
+154,Perdiendo el Juicio,fantasy,90,7.6,24
+156,Balestra,fantasy,145,5.1,578
+157,Sanatorium Under the Sign of the Hourglass,fantasy,75,5.8,274
+158,Ghost Cat Anzu,fantasy,97,6.6,1
+159,Mayan,fantasy,113,8.7,140
+161,Nonostante,fantasy,93,6.0,450
+162,Malaikottai Vaaliban,fantasy,156,5.9,4
+164,King Baby,fantasy,88,7.0,32
+165,Nyctophobia,fantasy,90,6.3,1
+167,Into the Mortal World,fantasy,118,7.0,304
+168,The Yin Yang Master Zero,fantasy,112,5.7,342
+174,The Opera! Arie per un'eclissi,fantasy,106,6.1,173
+175,Schneewittchen,fantasy,70,5.1,18
+176,Rita,fantasy,107,5.8,334
+177,The Gesuidouz,fantasy,93,6.8,114
+178,We Work for the Dead,fantasy,84,4.3,549
+179,The Jester from Transylvania,fantasy,102,4.8,49
+180,Princess Halle and the Jester,fantasy,71,4.5,83
+181,Last Song for You,fantasy,106,6.5,227
+183,Rendel: Cycle of Revenge,fantasy,99,3.6,297
+184,Intercambiadas,fantasy,97,5.7,91
+185,Gypsy Moon,fantasy,80,3.3,85
+187,Oz,fantasy,98,3.4,26
+188,Little Brownie Kuzya,fantasy,90,5.4,952
+189,The Fisherman,fantasy,108,7.6,83
+190,Schirkoa: In Lies We Trust,fantasy,103,5.5,253
+191,Hakkenden,fantasy,149,5.7,133
+192,Ooru Peru Bhairavakona,fantasy,133,5.7,1
+193,Universal Groove,fantasy,74,5.5,176
+194,Wicked Season,fantasy,85,4.2,92
+195,Olivia & the Clouds,fantasy,81,7.0,94
+196,Maxxie LaWow: Drag Super-shero,fantasy,114,7.2,351
+197,Dr. Sander's Sleep Cure,fantasy,102,6.2,1
+198,Ba,fantasy,79,5.5,197
+200,Una ballena,fantasy,108,5.4,272
+201,¿Quién es quién?,fantasy,95,5.3,309
+202,Enchanting Christmas,fantasy,91,6.2,463
+203,God with Three Eyes,fantasy,112,5.5,63
+204,SuperClaus,fantasy,88,4.3,270
+207,Spirit World,fantasy,94,5.5,121
+208,Planet 7693,fantasy,110,7.4,96
+209,Vincent,fantasy,92,5.6,750
+210,Silent Storms,fantasy,84,5.2,61
+211,Princesa Adormecida,fantasy,80,4.0,217
+212,Saint Young Men: Holy Men vs Demon Army,fantasy,93,3.7,55
+214,Soul Reaper,fantasy,112,5.6,389
+216,Sureshinteyum Sumalathayudeyum Hridayahariyaya Pranayakatha,fantasy,138,6.0,90
+218,Fureru,fantasy,107,6.2,149
+219,The Formula for Water,fantasy,86,4.1,55
+222,Avaidh,fantasy,164,9.1,35
+223,UmroAyyar - A New Beginning,fantasy,135,6.9,703
+225,Mother Maker Lover Taker,fantasy,99,4.6,112
+226,Bodegón con fantasmas,fantasy,88,6.5,376
+227,Noaptea lui Vlad,fantasy,90,6.9,97
+228,A Song from the Dark,fantasy,105,4.9,2
+229,"Hemet, or the Landlady Don't Drink Tea",fantasy,89,4.3,120
+231,"Don't Cry, Butterfly",fantasy,97,6.4,150
+232,The Supernatural Sweet Shop: The Movie,fantasy,103,6.6,67
+233,Monster,fantasy,75,9.7,134
+235,Ella,fantasy,91,9.1,68
+236,The Woods Are Real,fantasy,80,2.3,487
+239,River of Ghosts,fantasy,102,2.8,314
+240,The Time Travel Hills,fantasy,82,5.1,96
+241,Letters at Christmas,fantasy,84,3.3,250
+242,The Ballad of Hortensia,fantasy,94,6.2,162
+243,Suffocating Love,fantasy,102,6.0,342
+244,Hanami,fantasy,96,6.7,189
+245,Carol,fantasy,115,7.9,74
+246,The Vord,fantasy,101,3.3,82
+249,Ebenezer: The Traveler,fantasy,102,3.3,167
+251,Mephisto,fantasy,108,5.2,68
+253,Bloodspawn,fantasy,76,4.7,35
+254,Hold Me Close,fantasy,98,4.7,91
+255,Kajolrekha,fantasy,156,6.3,209
+257,Apollon by Day Athena by Night,fantasy,112,7.4,456
+258,All In,fantasy,103,5.7,95
+261,Code Duello: From the Tithebanner Saga,fantasy,61,8.8,343
+263,The Sisters,fantasy,122,4.7,180
+266,Maya Puthagam,fantasy,122,4.5,443
+268,Penguin Girl,fantasy,98,6.0,33
+269,Double Tuckerr,fantasy,120,5.2,1
+270,Wanderer,fantasy,46,6.2,13
+272,Bloodsuckers and the Grimoire,fantasy,76,6.9,33
+273,Iron Nest of the Moon,fantasy,70,7.3,14
+276,Traces of Love,fantasy,105,6.5,999
+278,Dinonauts,fantasy,77,6.3,14
+279,Fasel men el-Lahazat el-Ladhidhah,fantasy,122,6.4,1
+282,Don Dukun,fantasy,98,6.8,71
+285,Naag Bhoomi,fantasy,130,5.6,12
+287,The Hyperboreans,fantasy,71,6.4,161
+288,Cedric & Alysia,fantasy,84,5.3,60
+290,Snake Skin Beauty,fantasy,83,4.1,23
+292,Blue Fiddle,fantasy,86,8.4,18
+293,"Ado SPECIAL LIVE ""Shinzou"" in Cinema",fantasy,140,9.2,71
+294,The Evil Fairy Queen,fantasy,90,5.7,60
+295,Sunce nikad vise,fantasy,72,6.8,54
+301,10/31 Part 4,fantasy,87,5.1,40
+307,The Seductress from Hell,fantasy,102,5.9,30
+308,Bhairadevi,fantasy,134,8.6,69
+309,Gato Galactico e o Feitiço do Tempo,fantasy,85,7.6,74
+313,Salomé,fantasy,115,6.2,20
+315,Fragments of Us,fantasy,49,6.0,19
+320,Don't You Let Me Go,fantasy,71,6.6,72
+321,Taisu Xilie,fantasy,97,4.7,10
+322,Ghif,fantasy,94,2.6,323
+324,Spin the Wheel,fantasy,102,5.9,94
+327,Woof Woof Daddy,fantasy,105,6.1,50
+328,Achilles Curse and the Curse of Treasure,fantasy,125,7.2,31
+331,The Hallowed Knight,fantasy,91,6.1,29
+332,Couple in the Woods,fantasy,65,5.6,35
+333,Nueva Tierra,fantasy,123,7.7,37
+335,Ienai Himitsu,fantasy,115,6.2,104
+337,Wedding Diaries,fantasy,121,8.9,2
+338,Aalan,fantasy,137,5.4,1
+341,Sith Wars: Episódio III - Fantasmas Dos Sith,fantasy,99,8.3,257
+342,Vampire Genesis,fantasy,105,4.0,45
+343,The Journey of Flower,fantasy,97,4.0,31
+344,The Job Whisperer,fantasy,93,4.7,85
+345,Darker Than Night,fantasy,82,5.0,25
+346,White Cobra Diamond Fox vs the Golden Eye,fantasy,90,4.7,35
+347,The House Ghost,fantasy,102,4.2,310
+350,Yao Shen Ling,fantasy,93,6.6,75
+351,Franta mimozemstan,fantasy,98,4.6,95
+352,Supersiostry,fantasy,90,4.0,158
+353,The Heartsmith,fantasy,95,9.0,51
+354,Japa,fantasy,110,7.9,16
+355,Sun and Moon,fantasy,163,5.0,6
+365,Blue Christmas,fantasy,79,5.9,25
+366,Soul Traveler,fantasy,97,4.0,27
+368,Witches of God,fantasy,73,7.2,22
+369,Demon Host,fantasy,80,6.4,22
+377,Alucina (Fishgirl),fantasy,100,7.3,21
+378,Black Dragon,fantasy,99,4.0,9
+380,IZLIYORLAR,fantasy,113,7.5,39
+392,Princezna na hrásku,fantasy,80,5.5,71
+394,The Land of Women,fantasy,86,9.5,140
+395,Sharma & Ambani,fantasy,104,9.1,185
+396,Horse with No Name,fantasy,72,7.9,17
+398,The Killer Goldfish,fantasy,94,6.0,13
+402,The Old Man and the Demon Sword,fantasy,63,7.4,47
+403,Rainbow World: The Movie,fantasy,92,6.0,19
+409,Velký Pán,fantasy,73,6.8,11
+414,Santa's Chimney of Secrets,fantasy,66,4.1,31
+415,Un trago de infierno,fantasy,90,6.4,9
+416,Los ojos de Europa,fantasy,108,4.5,14
+418,UnichtoZhanna,fantasy,98,3.5,56
+419,Loch Ness Monster Captured,fantasy,45,3.6,38
+423,King Tara,fantasy,107,8.7,14
+434,Tara - The Lost Star,fantasy,90,8.8,12
+435,Bob's Hops,fantasy,90,7.5,7
+448,Brush of the God,fantasy,74,6.6,17
+450,Cantos Escuros,fantasy,90,8.4,5
+458,War of the Ninja Monsters: Jaron vs Goura,fantasy,55,4.0,15
+459,The Beads,fantasy,100,5.4,41
+460,Bicho Monstro,fantasy,75,7.8,13
+461,"The Girl, the Hunter & the Firefly",fantasy,98,7.4,18
+462,Bob a Bobek ve filmu: Na stope Mrkvojeda,fantasy,80,7.0,49
+465,The Legend of the Cat Demon,fantasy,85,4.3,15
+466,Sinoalice: The Very Last Story,fantasy,74,4.7,7
+467,"Bryson, the Demon Slayer",fantasy,59,5.1,14
+470,Apokrif,fantasy,64,7.3,28
+471,Pushpaka Vimanam,fantasy,137,5.6,17
+480,Xiao zi,fantasy,101,3.5,12
+481,Young doctor's notes,fantasy,86,3.1,8
+485,Krapiva: Tsvetok smerti,fantasy,81,6.1,60
+486,I Am Moon,fantasy,127,8.2,10
+488,Couples to Hell,fantasy,94,5.4,10
+494,Hua pi: Qing mie,fantasy,80,6.9,55
+495,Cageling,fantasy,69,6.8,9
+496,Kan dao ling hun de na zhi yan shi gong,fantasy,124,3.2,12
+501,And Through the Portal We Go,fantasy,83,7.2,15
+508,Lucid Love,fantasy,71,8.6,31
+13,Memoir of a Snail,Animation,95,7.8,25000
+16,Look Back,Animation,58,7.8,21000
+17,The Thinking Game,Animation,84,7.6,1
+19,Boys Go to Jupiter,Animation,90,6.5,613
+21,Spermageddon,Animation,80,5.4,3
+24,Uma Musume: Pretty Derby - Beginning of a New Era,Animation,108,7.7,600
+29,Watchmen: Chapter I,Animation,83,7.1,8
+30,Watchmen: Chapter II,Animation,90,7.1,4
+32,Haikyu!! The Dumpster Battle,Animation,85,7.7,7
+36,The Colors Within,Animation,101,7.0,1
+37,Baki Hanma VS Kengan Ashura,Animation,62,5.7,2
+40,The Quintessential Quintuplets Specials 2,Animation,46,6.8,323
+42,The Most Precious of Cargoes,Animation,81,7.1,2
+47,Frida,Animation,87,7.5,1
+51,Blue Lock: Episode Nagi,Animation,91,6.6,3
+52,The Glassworker,Animation,98,7.0,2
+53,Johnny Puff: Secret Mission,Animation,87,4.6,527
+54,Grand Theft Hamlet,Animation,89,6.9,2
+56,Given 3: To the Sea,Animation,80,7.7,347
+67,I Am What I Am 2,Animation,134,7.6,787
+81,Out of the Nest,Animation,84,6.4,185
+82,Savages,Animation,87,6.7,663
+97,Detective Conan: The Million-Dollar Pentagram,Animation,111,6.7,1
+100,Inanimate Insanity II: The Movie,Animation,106,8.4,321
+101,From Ground Zero,Animation,112,8.0,711
+104,Living Large,Animation,80,6.6,413
+107,(S)KiDS,Animation,85,8.1,183
+114,Rafadan Tayfa: Kapadokya,Animation,84,6.3,172
+116,Given the Movie: Hiiragi Mix,Animation,70,7.8,417
+117,Peppa's Cinema Party,Animation,65,4.8,166
+119,Among Neighbors,Animation,100,7.7,228
+120,Where the Robots Grow,Animation,88,2.2,561
+122,Terra Incognita 1901,Animation,78,5.0,81
+124,Space Sharks,Animation,70,1.5,374
+127,Boonie Bears: Time Twist,Animation,105,5.8,221
+130,Transformers: 40th Anniversary Event,Animation,96,7.0,37
+131,Isla Monstro,Animation,96,7.9,17
+136,Mariposas Negras,Animation,83,7.0,106
+137,Magic Beach,Animation,80,5.2,136
+138,Slocum et moi,Animation,75,6.7,184
+140,Bocchi the Rock! Recap Part 2,Animation,77,7.3,193
+143,Kizumonogatari: Koyomi Vamp,Animation,144,6.9,171
+144,Make a Girl,Animation,92,6.5,78
+150,A Few Moments of Cheers,Animation,68,6.9,96
+153,Astra,Animation,80,6.0,15
+155,Rocket Club: Across the Cosmos,Animation,68,8.2,24
+157,Big Bad CGI Monsters,Animation,60,4.0,69
+158,Bocchi the Rock! Recap Part 1,Animation,90,7.4,258
+159,Quo Vadis,Animation,90,6.8,832
+162,Ugly Sweater,Animation,80,6.3,25
+165,Bloody Escape: Bats out of Hell,Animation,100,5.3,72
+168,Le parfum d'Irak,Animation,95,8.0,85
+169,TWST: Things We Said Today,Animation,86,6.5,106
+171,Trapezium,Animation,95,6.1,206
+177,PAPmusic - Animation for Fashion,Animation,85,1.4,332
+179,Riki Rhino: The Bird Kingdom,Animation,109,4.7,30
+182,Hello My Beautiful Creatures,Animation,142,6.9,186
+187,The Greatest Surf Movie in the Universe,Animation,81,4.4,28
+188,Animal Tales of Christmas Magic,Animation,72,6.7,122
+189,Code Geass: Rozé of the Recapture - Part 1,Animation,74,7.3,57
+191,Tobias and the Arcane Merchant,Animation,167,8.9,57
+192,Detective Conan vs. Kid the Phantom Thief,Animation,81,6.1,188
+194,Kuramerukagari,Animation,61,5.9,102
+196,Max Beyond,Animation,93,5.9,23
+200,"Robotia, the Movie",Animation,86,7.5,36
+201,Be Forever Yamato: Rebel 3199: Part 1: Dark Invasion,Animation,50,6.5,15
+202,Memory Hotel,Animation,100,5.1,21
+204,Uma & Haggen: Mitos,Animation,94,7.3,85
+207,Bizarros Peixes das Fossas Abissais,Animation,75,7.5,20
+209,Il segreto di Liberato,Animation,90,7.2,244
+215,DreadClub: Vampire's Verdict,Animation,88,4.8,86
+216,Mustafa,Animation,75,6.5,88
+219,"BanG Dream! It's MyGO!!!!!: Spring Sunshine, Lost Cat",Animation,118,7.0,17
+220,Iris the Movie: Full Energy!!,Animation,60,7.3,8
+222,Woolina and the No Birds,Animation,80,7.9,61
+224,Yumi's Cells: The Movie,Animation,93,6.4,59
+226,"Hey, Tete",Animation,151,6.2,10
+227,Animal Adventures: Save the Forest,Animation,85,7.6,36
+228,Day of the Diesels,Animation,100,7.4,16
+230,Pleasant Goat and Big Big Wolf: The World Guardians,Animation,96,6.6,20
+235,Ganbatte Ikimasshoi,Animation,95,5.7,33
+240,The Delegator,Animation,96,3.8,21
+241,Nasreddin Hoca: Zaman Yolcusu - Kadim Medeniyetler,Animation,78,8.2,15
+243,John Vardar vs the Galaxy,Animation,86,7.7,97
+246,Zegapain STA,Animation,90,3.6,10
+248,"BanG Dream! It's MyGO!!!!!: Sing, A Song to Become Us & FILM LIVE",Animation,120,8.1,10
+254,Motu Patlu & The Race to the Diamond Valley,Animation,72,7.7,31
+255,Code Geass: Rozé of the Recapture: Part 4,Animation,70,6.4,27
+259,Luv You Shankar,Animation,120,5.9,47
+264,Arne Alligator och djungelkompisarna,Animation,61,4.6,60
+267,Code Geass: Rozé of the Recapture: Part 2,Animation,76,7.3,40
+270,La bicicletta di Bartali,Animation,80,7.1,17
+276,Zuzubalândia: O Filme,Animation,60,5.9,14
+278,Gintama the Movie 2D: Courtesan of the Nation Arc,Animation,109,8.1,15
+279,Motu Patlu & The Rise of Zombies,Animation,74,7.6,25
+280,Love Live! Nijigasaki High School Idol Club Final Chapter Part 1,Animation,59,6.6,24
+290,Gintama on Theater 2D: Kintama-hen,Animation,97,7.0,12
+311,Ninja Doomscrolling,Animation,96,8.0,112
+313,Balentes,Animation,70,6.6,14
+317,Code Geass: Rozé of the Recapture: Part 3,Animation,76,6.9,35
+321,Shed 17 & Project G-1 the Movie,Animation,85,6.6,7
+322,Ya Boy Kongming! Road to Summer Sonia,Animation,119,7.1,54
+323,Sunburnt Unicorn,Animation,81,7.8,14
+327,Boundearth,Animation,108,9.0,6
+332,Pig That Survived Foot-and-Mouth Disease,Animation,105,5.1,21
+337,Sirds likums,Animation,65,7.2,20
+338,Be Forever Yamato: Rebel 3199: Part 2: Red Sun Sortie,Animation,97,6.8,10
+343,The Car Acrobatic Team Saga,Animation,112,7.0,14
+344,Bie ba zuo wen dang hui shi er,Animation,89,7.2,12
+350,Gill,Animation,104,4.8,6
+354,2475 Dawn of Revolution,Animation,127,6.3,154
+356,Ekip: Siberay - Günes Firtinasi,Animation,72,5.5,15
+51,Father There is Only One 4,family,90,5.2,832
+56,Tartinijev kljuc,family,115,7.1,55
+57,A Brother and 7 Siblings,family,129,8.1,2
+63,Bibi Rajni,family,143,8.4,777
+68,Disaster Holiday,family,93,4.9,899
+69,Runt,family,91,6.4,792
+70,Mistress Dispeller,family,94,6.9,356
+75,The Door-to-Door Bookstore,family,98,7.2,1
+79,Marry Christmas,family,85,4.7,309
+80,Pinnil Oral,family,127,8.3,1
+84,Little Red Sweet,family,92,5.8,49
+87,And the Breadwinner Is...,family,123,5.9,608
+88,Average Joe,family,100,4.6,669
+90,Fear,family,115,7.6,3000
+96,Kardes Takimi,family,95,3.5,668
+97,Home Sweet Loan,family,112,8.0,1
+100,2nd Miracle in Cell No. 7,family,147,7.2,453
+104,Daaru Na Peenda Hove,family,111,6.7,2
+106,Juliette in Spring,family,95,6.3,459
+108,A Game of Two Halves,family,100,6.7,38
+109,Véletlenül írtam egy könyvet,family,98,7.3,1
+111,Bila Esok Ibu Tiada,family,104,6.7,434
+112,Gharat Ganpati,family,139,7.7,627
+114,DeAr,family,132,5.2,2
+116,Nadanna Sambhavam,family,120,6.0,2
+117,A Nashville Wish,family,102,5.3,131
+119,The Snow Sister,family,96,7.0,2
+120,Haydi Tut Elimi,family,113,6.5,44
+122,G for Gap,family,103,7.1,681
+127,Like a Rolling Stone,family,106,7.7,598
+129,Victoria må dø,family,85,5.8,482
+132,Dog Days,family,120,6.7,391
+133,Max und die wilde 7: Die Geister-Oma,family,90,6.0,64
+134,Too Old for Fairy Tales 2,family,95,4.9,497
+135,Brewster's Millions: Christmas,family,100,5.7,229
+137,"Love, Sitara",family,105,5.3,327
+138,Vishesham,family,136,6.7,1
+141,The Neon Highway,family,113,5.9,577
+144,Singapore Saloon,family,137,6.0,1
+145,Blended Christmas,family,83,6.7,110
+146,Not Just a Goof,family,87,7.7,567
+147,The Legend of Catclaws Mountain,family,104,3.3,201
+150,Our Church Thinks We're Dating,family,102,7.5,75
+151,Dance Rivals,family,93,6.2,93
+153,A Carpenter's Prayer,family,91,5.4,160
+154,Brother,family,140,5.7,2
+155,Ole Aale,family,142,8.5,422
+157,Iyus Jenius,family,82,9.5,46
+158,Grüsse vom Mars,family,85,7.2,88
+159,Hope's Hollywood Christmas,family,90,4.7,167
+160,Windcatcher,family,80,5.4,436
+161,We Believe,family,78,2.4,67
+162,Heidi,family,100,6.8,14
+163,Peas and Carrots,family,96,7.1,36
+167,Grrr...,family,121,4.2,1
+169,Børnene fra Sølvgade,family,102,6.5,215
+171,Dedh Bigha Zameen,family,100,6.9,827
+172,Skelly,family,85,3.7,130
+173,For Prophet,family,105,5.3,119
+175,Hashtag Tadev lagnam,family,118,6.6,183
+177,Miracle Mile,family,82,6.7,55
+179,Ghudchadi,family,113,4.1,601
+180,Mujigae,family,109,6.4,70
+183,Not a Clue,family,48,3.7,35
+187,My Eyes,family,87,4.6,116
+189,Sabari,family,129,6.4,5
+194,Sieger Sein,family,119,6.4,221
+196,Ducobu passe au vert!,family,90,4.0,166
+198,14 Days Love,family,112,6.2,14
+200,Thookudurai,family,125,4.2,2
+202,Rajakili,family,122,4.9,641
+204,A Hero's Journey: The Making of Percy Jackson and the Olympians,family,50,7.5,282
+206,Hope,family,79,4.4,67
+207,Khusma,family,145,7.9,74
+208,Amaltash,family,113,8.1,171
+210,My Private Line to God,family,82,6.6,98
+213,Juf Braaksel en de geniale ontsnapping,family,83,4.2,84
+214,Spirit of Friendship,family,85,4.5,87
+215,Chithini,family,151,5.9,555
+216,Baii Ga,family,134,4.1,74
+217,De Bellinga's: Pretpark op stelten,family,70,3.0,154
+218,Joy of Horses,family,90,5.1,186
+221,Titip Surat Untuk Tuhan,family,81,6.5,57
+222,Romeo and Benvolio,family,80,9.7,31
+224,CBeebies Panto: Beauty and the Beast,family,73,7.7,26
+225,Superkrachten voor je hoofd,family,92,7.3,221
+226,A Christmas Miracle,family,88,6.0,76
+228,Dear Family,family,116,6.8,102
+229,Babah,family,129,6.6,223
+230,Gina,family,100,7.1,41
+231,Porch Pirates,family,107,5.0,119
+233,Feather Christmas,family,94,3.6,141
+235,The Magic Penguin,family,89,3.2,37
+237,Aamar Boss,family,139,7.7,653
+242,Christmas Carole,family,93,4.0,176
+243,Luv Ki Arrange Marriage,family,135,4.4,5
+245,Awesomest Christmas Ever,family,78,6.5,30
+247,Mr. Santa: A Christmas Extravaganza,family,98,6.7,27
+249,Iwájú: A Day Ahead,family,71,6.6,77
+250,Chicken Coop,family,98,5.9,101
+253,Aanandhapuram Diaries,family,115,7.1,3
+255,"Merry Birthday, Happy Christmas",family,84,3.7,131
+256,Hank's Christmas Wish 2: The Nutcracker,family,55,2.0,82
+258,De club van Sinterklaas film: Het grote sneeuwavontuur,family,79,6.0,66
+261,The Hedgehog,family,104,6.6,708
+262,Nanak Naam Jahaz Hai,family,140,9.8,68
+263,Chitra,family,125,7.6,18
+264,Super papa,family,90,5.3,213
+269,Rajkumar,family,145,7.3,2
+270,Krispy Rishtey,family,133,6.5,73
+271,Kattis Gang,family,144,5.4,430
+273,A Christmas Reunion,family,64,4.2,20
+274,Il migliore dei mali,family,90,6.1,19
+277,Semeynyy perepolokh,family,87,4.7,74
+278,A Soldier for Christmas,family,91,6.5,72
+282,Gowri,family,130,6.6,4
+283,Little Town,family,90,6.7,21
+284,A Holiday for Harmony,family,120,3.9,44
+286,Scooped,family,84,4.7,55
+287,Palayam PC,family,118,7.4,3
+288,Once Upon a Christmas,family,115,6.5,27
+289,My Dear Donga,family,132,5.8,186
+290,Our Christmas House,family,77,5.3,56
+292,Mansarra,family,138,7.4,54
+295,Mees Kees op eigen benen,family,82,5.9,61
+296,Mezhdu nami,family,93,5.2,45
+298,Mallemogga,family,132,8.2,11
+299,BeBe Winans' We Three Kings,family,90,7.1,166
+304,Oti Uttam,family,137,5.1,248
+306,Give You a Candy,family,134,6.1,18
+307,Bayramlik,family,114,5.6,101
+309,The Land of Morning Calm,family,113,6.6,70
+310,Gabru Gang,family,123,8.4,216
+313,Margie en de magische drank,family,59,5.2,5
+315,Chitti - Potti,family,150,9.1,1
+316,"Akiko, der fliegende Affe",family,70,5.0,45
+317,Running Milu Deer,family,104,9.0,9
+320,The Lamb,family,85,6.3,60
+323,Vindu Bhojanam,family,103,7.0,56
+329,Lek Asavi Tar Ashi,family,143,4.8,15
+330,Perfekta: Uma Aventura da Escola de Gênios,family,92,6.1,22
+334,Last Defenders of Monogamy,family,84,5.3,447
+336,Double Engine,family,106,5.3,120
+337,Prinsessa Pikkiriikki,family,75,6.2,54
+338,Paagal vs Kadhal,family,111,9.0,2
+339,Home Plate,family,85,5.1,10
+344,Nosso Amiguinho,family,100,7.9,7
+348,Idu Entha Lokavayya,family,120,5.8,8
+353,Vozvrashchenie popugaya Keshi,family,93,2.4,132
+354,Haddhu Ledhu Raa,family,112,6.8,2000
+356,Padmavyuham Lo Chakradhari,family,110,6.9,1
+358,Gulmohammad,family,72,9.0,328
+359,Waterdrop,family,108,7.4,10
+360,Al Eid Eiden,family,110,5.7,21
+361,Moyo sobache delo,family,77,5.0,61
+363,"7 dney, 7 nochey",family,98,6.1,423
+366,The Christmas Room,family,99,6.3,58
+369,Smotri na menya!,family,120,5.7,95
+371,Give 'Em Hell Honey!,family,94,5.6,24
+372,Uparwala & Sons,family,126,9.1,323
+373,Kaagada,family,149,8.2,15
+378,Indonesia dari Timur,family,112,6.7,7
+380,My Dad Is an Alien,family,96,7.8,25
+383,Vovó Ninja,family,96,5.2,24
+384,Appa I Love You,family,145,7.7,546
+385,When the World Met Miss Probinsyana,family,155,9.3,46
+388,Khelaghar Bandhte Legechi,family,100,7.1,8
+389,Udanadi Mangalyam,family,90,3.0,25
+394,Vaar Tahevaar,family,127,8.3,321
+397,Malyshariki. Den rozhdeniya,family,52,6.3,33
+398,De Grote Sinterklaasfilm - Stampij in de bakkerij,family,75,3.3,84
+403,"Heinähattu, Vilttitossu ja kana",family,77,4.9,67
+404,Omar v bolshom kino,family,86,5.6,36
+411,Fien & Teun Circus op de Boerderij,family,77,4.9,15
+423,Her Life Choice,family,45,2.5,24
+425,Klaantha,family,107,6.0,521
+428,SDL A Batalha Musical,family,102,7.4,43
+433,Mastaani,family,150,8.8,31
+434,Feng Zi Lao Ba,family,85,3.9,7
+436,Het Feest van Tante Rita 2 - De Chocobom,family,84,6.9,27
+437,Bitva pap,family,79,6.6,66
+440,Tarpana,family,138,9.4,20
+441,Fanzo Movie,family,104,6.6,19
+444,Childhood Tales,family,63,7.3,38
+445,Papu mame zaverni,family,106,3.6,78
+449,V banyu!,family,99,4.9,85
+450,A House Without a Father,family,61,5.4,37
+452,Interview,family,115,8.1,10
+458,Neposlushniki,family,108,4.7,108
+459,Korporatsiya Morozov,family,83,4.9,39
+460,Odna doma. Velikolepnaya pyatyorka,family,85,3.9,55
+464,Borjatri,family,72,8.4,6
+465,Person of the Year,family,100,5.4,14
+473,Salamat Rahe Dostana Hamara (SRDH),family,60,5.7,139
+474,Wholesome Grove,family,99,5.3,12
+500,Kazhdyy mechtaet o sobake,family,90,4.9,38
+501,Novogodnee chudo,family,73,5.4,18
+520,Kallu Compound 1995,family,140,7.2,2000
+521,Eine zweite Chance,family,91,8.6,46
+522,Gyakorlat teszi a mestert,family,46,6.2,30
+524,Uzhaipalar Thinam,family,122,4.2,7
+542,Tomari Sathe,family,54,7.0,9
+544,Tui Ke Amar,family,114,6.6,6
