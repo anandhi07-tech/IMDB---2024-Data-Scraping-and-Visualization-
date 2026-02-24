@@ -53,7 +53,7 @@ This project focuses on extracting, analyzing, and visualizing IMDb movie data f
 ⚙️ Setup & Installation Guide
 
 1️⃣ Repository Setup
-git clone [https://github.com/yourusername/imdb-2024-analysis.git](https://github.com/anandhi07-tech/IMDB---2024-Data-Scraping-and-Visualization-.git)
+git clone (https://github.com/anandhi07-tech/IMDB---2024-Data-Scraping-and-Visualization-.git)
 
 2️⃣ Required Dependencies
 Ensure the following are installed:
