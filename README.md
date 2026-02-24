@@ -14,14 +14,23 @@ This project focuses on extracting, analyzing, and visualizing IMDb movie data f
  📌 Key Analytical Objectives
 
 ✔ Identify top-performing movies based on ratings and votes
+
 ✔ Analyze distribution of movies across genres
+
 ✔ Evaluate average movie duration by genre
+
 ✔ Examine voting behavior trends
+
 ✔ Determine dominant genres in 2024
+
 ✔ Study rating patterns across movies
+
 ✔ Identify top-rated movies within each genre
+
 ✔ Detect shortest and longest movies
+
 ✔ Compare average ratings by genre
+
 ✔ Analyze correlation between ratings and voting counts
 
 🚀 Dashboard Highlights
